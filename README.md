@@ -1,0 +1,1 @@
+To see the notebook, go to [project.ipynb](https://github.com/mark-selyaeff/DSCourseproject/blob/master/project.ipynb) file.
